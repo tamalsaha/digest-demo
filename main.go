@@ -16,4 +16,5 @@ func main() {
 	fmt.Println(d.Algorithm())
 	fmt.Println(d.String())
 	fmt.Println(d.Encoded())
+	fmt.Println(d.Hex())
 }
